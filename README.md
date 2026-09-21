@@ -93,7 +93,7 @@ The interactive dashboard includes:
 ## Files
 
 * `supermarket_sales.csv` — Raw dataset
-* `Supermarket_Sales_Analysis.xlsx` — Excel analysis and interactive dashboard
+* `SSupermarket_Sales_Portfolio.xlsx` — Excel analysis and interactive dashboard
 
 ## Purpose
 
