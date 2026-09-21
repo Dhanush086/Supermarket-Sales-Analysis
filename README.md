@@ -1,5 +1,4 @@
 # Supermarket-Sales-Analysis
-# Supermarket Sales Analysis
 
 ## Project Overview
 
@@ -65,6 +64,8 @@ Examined sales across different combinations of weekdays and transaction hours.
 ## Dashboard
 
 The interactive dashboard includes:
+
+![Supermarket Sales Dashboard](dashboard.png)
 
 * KPI cards
 * Branch Performance
