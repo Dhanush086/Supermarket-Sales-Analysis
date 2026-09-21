@@ -99,3 +99,11 @@ The interactive dashboard includes:
 
 This project was created as a practical data analytics portfolio project to demonstrate Excel-based data cleaning, analysis, visualization, and dashboard development.
 
+## Author
+
+**Dhanush**
+Data Analytics | Python | Pandas | Power BI | Data Visualization
+
+[GitHub](https://github.com/Dhanush086)
+
+
